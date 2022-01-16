@@ -1,0 +1,24 @@
+{
+  "name": "discord-statisticator",
+  "version": "1.0.0",
+  "description": "A little discord bot",
+  "main": "index.js",
+  "author": "thomasduchateau",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord": "~0.8.2",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasd62/Discord-Statisticator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thomasd62/Discord-Statisticator/issues"
+  },
+  "homepage": "https://github.com/thomasd62/Discord-Statisticator#readme"
+}
