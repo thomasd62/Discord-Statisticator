@@ -21,7 +21,7 @@ for(const file of commandFiles) {
 
 //prefix of commands
 const prefix = '.';
-const token = 'OTMxOTcxODk5Mjg0Njc2NzYw.YeMMdw.54yI5CbMB37ERn-8y5ELg5TeylE';
+const token = '';
 
 //Wait for client connection
 client.once('ready', () => {
